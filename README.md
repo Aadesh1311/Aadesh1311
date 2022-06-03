@@ -2,7 +2,7 @@
 
 I am a aspiring full-stack web developer with a specialization in MERN stack. I am someone,who is always ready to learn new technologies 
 
-<!--
+
 **Aadesh1311/Aadesh1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
