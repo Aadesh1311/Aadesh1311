@@ -1,18 +1,10 @@
-### Hi there 👋 I am Adesh Maurya
+#Hi there 👋 I am Adesh Maurya
+
 
 I am a aspiring full-stack web developer with a specialization in MERN stack. I am someone,who is always ready to learn new technologies 
 
+For My Resume:[Click here](https://drive.google.com/file/d/1GXofbcLhoZY99L7uErlgHx857CvTLLOB/view?usp=sharing) 
+For My Portfolio:[Click here](https://incomparable-strudel-db7539.netlify.app/)
+Want to visit my [Linkedin Profile](https://www.linkedin.com/in/adesh-maurya-427261222/) 
+How to reach me: aadeshmaurya112@gmail.com
 
-**Aadesh1311/Aadesh1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: aadeshmaurya112@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
