@@ -9,7 +9,14 @@
  How to reach me: aadeshmaurya112@gmail.com <br/>
 
 ### Languages and Tools <br/>
-HTML || CSS || Javascript || React || MongoDB || Express ||Node.js
+HTML || CSS || Javascript || React || MongoDB || Express ||Node.js <br/>
+
+## Some Github Stats <br/>
+
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadesh1311&show_icons=true&locale=en" alt="adibittt2" /></div> <br/>
+
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aadesh1311&show_icons=true&locale=en&layout=compact" alt="adibittt2" /></div>
+
 
 
 
