@@ -8,7 +8,8 @@
 - 💬 Ask me about **Web Development, Data Structure and Algorithms**
 
 - 📫 How to reach me **aadeshmaurya112@gmail.com** 
-- 📄 *Resume* [Click Here](https://drive.google.com/file/d/1GXofbcLhoZY99L7uErlgHx857CvTLLOB/view?usp=sharing)
+- 📄 **Resume** [Click Here](https://drive.google.com/file/d/1GXofbcLhoZY99L7uErlgHx857CvTLLOB/view?usp=sharing)
+- 📄 **Portfolio** [Click Here](https://adeshmaurya-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +18,7 @@
 <a href="https://github.com/Aadesh1311" target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="el_dorado_sib" height="30" width="40" /></a>
 </p>
  
- For My Portfolio:[Click here](https://adeshmaurya-portfolio.netlify.app/) <br/>
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
