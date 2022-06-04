@@ -1,7 +1,18 @@
-# Hi.... 👋 I am Adesh Maurya
+ 
+
+<div>
+<h1 align="left">Hi.... 👋 I am Adesh Maurya</h1>
+<p align="left">I am a aspiring full-stack web developer with a specialization in MERN stack. I am someone,who is always ready to learn new technologies </p>
+</div>
+<div>
+    <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761139416ed019554dfd7f47eec1dee547bb5358b504&rid=giphy.gif&ct=g">
+
+    
+      
+</div>
 
 
- I am a aspiring full-stack web developer with a specialization in MERN stack. I am someone,who is always ready to learn new technologies .<br/>
+ .<br/>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React, Node, Express, MongoDB**
 
